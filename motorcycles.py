@@ -8,6 +8,7 @@ motorcycles.append('Suzuki')
 myList = motorcycles
 
 print('Original list.')
+print(motorcycles)
 
 for i in motorcycles:
     print(i.replace("a", ''))
