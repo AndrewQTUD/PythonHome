@@ -19,7 +19,7 @@ def send_mail():
 
     subject = 'You can do it Raluca!'
 
-    body = 'This is an automated email to remind you that you can do anything!'
+    body = 'This is an automated email to remind you that you can do anything! ' + str(cd)
 
     msg = f"Subject : {subject}\n\n{body}"
 
