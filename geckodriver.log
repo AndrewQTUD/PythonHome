@@ -1,0 +1,84 @@
+1618866731547	geckodriver	INFO	Listening on 127.0.0.1:60329
+1618866732035	mozprofile::profile	INFO	Using profile path C:\Users\andyt\AppData\Local\Temp\rust_mozprofile.GPjZKpa50pXi
+1618866732042	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1618866734069	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60334
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1618866747486	Marionette	INFO	Listening on port 2828
+1618866752436	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618866800125	geckodriver	INFO	Listening on 127.0.0.1:60423
+1618866800606	mozprofile::profile	INFO	Using profile path C:\Users\andyt\AppData\Local\Temp\rust_mozprofile.wUG9kSMeRU4p
+1618866800611	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1618866800619	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60428
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1618866804118	Marionette	INFO	Listening on port 2828
+1618866819146	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618867397907	geckodriver	INFO	Listening on 127.0.0.1:60810
+1618867398396	mozprofile::profile	INFO	Using profile path C:\Users\andyt\AppData\Local\Temp\rust_mozprofile.KVlGksTxcSHT
+1618867398402	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1618867398411	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60815
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1618867401970	Marionette	INFO	Listening on port 2828
+1618867404780	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618867445359	geckodriver	INFO	Listening on 127.0.0.1:60903
+1618867445866	mozprofile::profile	INFO	Using profile path C:\Users\andyt\AppData\Local\Temp\rust_mozprofile.pnbbns3K3WrR
+1618867445871	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1618867445879	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60910
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1618867449510	Marionette	INFO	Listening on port 2828
+1618867453792	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618867555375	geckodriver	INFO	Listening on 127.0.0.1:61042
+1618867555877	mozprofile::profile	INFO	Using profile path C:\Users\andyt\AppData\Local\Temp\rust_mozprofile.5qu9YexrMnsz
+1618867555883	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1618867555890	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61048
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1618867559437	Marionette	INFO	Listening on port 2828
+1618867564321	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618867624722	geckodriver	INFO	Listening on 127.0.0.1:61165
+1618867625215	mozprofile::profile	INFO	Using profile path C:\Users\andyt\AppData\Local\Temp\rust_mozprofile.Vg7dySpenha3
+1618867625221	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1618867625228	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61171
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1618867628812	Marionette	INFO	Listening on port 2828
+1618867764930	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618867842859	geckodriver	INFO	Listening on 127.0.0.1:61552
+1618867843352	mozprofile::profile	INFO	Using profile path C:\Users\andyt\AppData\Local\Temp\rust_mozprofile.HcUJQJh6vQeO
+1618867843357	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1618867843365	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61558
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1618867846869	Marionette	INFO	Listening on port 2828
+1618867863080	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
